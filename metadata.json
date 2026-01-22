@@ -1,0 +1,8 @@
+{
+  "name": "SafeFlow – HSE Compliance Automation",
+  "description": "A digital HSE compliance platform for oil & gas companies to automate incident reporting, corrective actions, and regulatory compliance.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
